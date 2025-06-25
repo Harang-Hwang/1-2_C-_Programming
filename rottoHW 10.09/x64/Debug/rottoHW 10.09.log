@@ -1,0 +1,3 @@
+﻿  rottoHW.cpp
+C:\Users\haran\OneDrive\바탕 화면\성신 여자 대학교\1학년\2학기\C++ 프로그래밍\rottoHW 10.09\rottoHW 10.09\rottoHW.cpp(7,1): warning C4326: 'main'의 반환 형식이 'int'이어야 하는데 'void'입니다.
+C:\Users\haran\OneDrive\바탕 화면\성신 여자 대학교\1학년\2학기\C++ 프로그래밍\rottoHW 10.09\rottoHW 10.09\rottoHW.cpp(11,3): error C2146: 구문 오류: ';'이(가) 'cout' 식별자 앞에 없습니다.
