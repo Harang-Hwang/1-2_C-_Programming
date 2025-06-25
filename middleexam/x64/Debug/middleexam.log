@@ -1,0 +1,4 @@
+﻿  middleexam.cpp
+C:\Users\haran\OneDrive\바탕 화면\성신 여자 대학교\1학년\2학기\C++ 프로그래밍\middleexam\middleexam\middleexam.cpp(10,13): warning C4244: '인수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\haran\OneDrive\바탕 화면\성신 여자 대학교\1학년\2학기\C++ 프로그래밍\middleexam\middleexam\middleexam.cpp(12,13): warning C4244: 'return': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  middleexam.vcxproj -> C:\Users\haran\OneDrive\바탕 화면\성신 여자 대학교\1학년\2학기\C++ 프로그래밍\middleexam\x64\Debug\middleexam.exe
