@@ -1,0 +1,4 @@
+﻿  lottoHW2.cpp
+C:\Users\haran\OneDrive\바탕 화면\성신 여자 대학교\1학년\2학기\C++ 프로그래밍\lottoHW2\lottoHW2\lottoHW2.cpp(22,1): warning C4326: 'main'의 반환 형식이 'int'이어야 하는데 'void'입니다.
+C:\Users\haran\OneDrive\바탕 화면\성신 여자 대학교\1학년\2학기\C++ 프로그래밍\lottoHW2\lottoHW2\lottoHW2.cpp(23,12): warning C4244: '인수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  lottoHW2.vcxproj -> C:\Users\haran\OneDrive\바탕 화면\성신 여자 대학교\1학년\2학기\C++ 프로그래밍\lottoHW2\x64\Debug\lottoHW2.exe
